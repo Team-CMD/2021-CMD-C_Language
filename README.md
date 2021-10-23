@@ -23,7 +23,9 @@
 |Week 08|(미정)|C언어 미니 프로젝트||
 
 ## 🖖 Details
-... 
-
-
+    We operate this study in "Team-CMD 2021-second semester activities".  
+    Our study based on "C", kinds of programming language.  
+    In this study, totally 3 people, already started October 12th.  
+    As the leader of this study, I want to the study members to improve their skills.
+ 
   **`This Study Repository must not fork any other routes, without this repository contributors!`**
