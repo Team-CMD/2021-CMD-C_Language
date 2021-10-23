@@ -5,9 +5,11 @@
 - Dev C++
 
 ## ✌️ Contributor
-...
+![label](https://img.shields.io/badge/Team.CMD-ByunJihun-8286ff?style=flat-square&labelColor=000000)
+![label](https://img.shields.io/badge/Team.CMD-JeongYunjeong-ffd86e?style=flat-square&labelColor=000000)
+![label](https://img.shields.io/badge/Team.CMD-ChoiJaehoon-9f45ff?style=flat-square&labelColor=000000)
 
-## 🤟 Schedule TableV
+## 🤟 Schedule Table
 |**Weeks**|**Dates**|**Contents**|**Others**|
 |---------|---------|------------|----------|
 |Week 00|10/12(화) 18:00 |스터디 설명 및 운영방식 소개| 소개 및 과제부여 |
