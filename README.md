@@ -1,4 +1,6 @@
-# C Study (with CMD)
+<div>
+  <h1 align="center"><b>C Study (with CMD)</b></h1>
+</div>
 
 ## ☝️ Environment
 - Visual Studio 2019
