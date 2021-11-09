@@ -10,7 +10,7 @@
 코카를 도와 궁금증을 해결해보자!
 단, 1 <= a < 10, b < 10 이다.
 */
-
+ 
 # include<stdio.h>
 #include<math.h>
 #include<stdbool.h>
