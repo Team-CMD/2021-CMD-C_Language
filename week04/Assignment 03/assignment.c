@@ -33,6 +33,19 @@ int main(){
 
 	// Please Write your code about "Stack"
 	
+	
+	// Below code is test code! Don't touch!!
+	printStack();
+	push("A");
+	push("B");
+	push("C");
+	printStack();
+	pop();
+	peek();
+	printStack();
+	push("D");
+	printStack();
+	
 	return 0;
 }
 
