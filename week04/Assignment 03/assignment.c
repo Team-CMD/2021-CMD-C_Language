@@ -31,8 +31,6 @@ void printStack(){// 스택의 모든 원소를 출력하는 함수
 int main(){
 	// Please Write your code about "Singly List" 
 
-	// Please Write your code about "Stack"
-	
 	
 	// Below code is test code! Don't touch!!
 	printStack();
