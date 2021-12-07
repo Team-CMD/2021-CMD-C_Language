@@ -43,8 +43,9 @@ char peek() {// 스택에 맨 위 원소를 반환하는 함수
 }
 
 void printStack() {// 스택의 모든 원소를 출력하는 함수 
+	int i;
 	if (!isFull()) {
-		for (int i = 0; i <= top; i++) {
+		for(i = 0; i <= top; i++) {
 			printf("%c\n", stack[i]);
 		}
 	}
@@ -55,14 +56,15 @@ void printStack() {// 스택의 모든 원소를 출력하는 함수
 int main() {
 	// Please Write your code about "Singly List" 
 	char* day[7];
-	day[0] = "월요일";
-	day[1] = "화요일";
-	day[2] = "수요일";
-	day[3] = "목요일";
-	day[4] = "금요일";
-	day[5] = "토요일";
-	day[6] = "일요일";
-	for (int i = 0; i < 7; i++) {
+	int i;
+	day[0] = "������";
+	day[1] = "ȭ����";
+	day[2] = "������";
+	day[3] = "�����";
+	day[4] = "�ݿ���";
+	day[5] = "�����";
+	day[6] = "�Ͽ���";
+	for(i = 0; i < 7; i++) {
 		printf("%s\n", day[i]);
 	}
 

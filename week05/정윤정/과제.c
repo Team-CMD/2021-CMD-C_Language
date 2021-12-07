@@ -53,15 +53,14 @@ int main() {
 	char *SinglyList[] = {"월요일","화요일","수요일","목요일","금요일","토요일","일요일"};
 	// Please Write your code about "Stack"
 
-
 	// Below code is test code! Don't touch!!
 	printStack();
 	push('A');
 	push('B');
 	push('C');
 	printStack();
-	pop();
-	peek();
+	pop();// C , Stack에서는 C가 제거됨. 
+	peek();// B , Stack에서는 B는 제거되지 않음.
 	printStack();
 	push('D');
 	printStack();
