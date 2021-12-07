@@ -13,7 +13,7 @@
 ![label](https://img.shields.io/badge/Team.CMD-ChoiJaehoon-9f45ff?style=flat-square&labelColor=000000)
 
 ## 🤟 Schedule Table
-|**Weeks**|**Dates**|**Contents**|**Others**|
+|**Weeks No.**|**Dates**|**Contents**|**Others**|
 |---------|---------|------------|----------|
 |Week 00|10/12(화) 18:00 |스터디 설명 및 운영방식 소개| 소개 및 과제부여 |
 |Week 01|10/30(토) 19:00 |과제 확인 및 기본 Syntax다지기 (1)| 과제부여 없음 |
