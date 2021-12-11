@@ -30,4 +30,7 @@
     In this study, totally 3 people, already started October 12th.  
     As the leader of this study, I want to the study members to improve their skills.
  
+
+<p align="center"><b>--- Finishied This Study ---</b></p>
+
   **`This Study Repository must not fork any other routes, without this repository contributors!`**
